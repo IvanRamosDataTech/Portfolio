@@ -3,7 +3,6 @@ Personal Porfolio with data related projects
 # Technologies used
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-you?style=for-the-badge&logo=azure&logoColor=white&label=Microsoft&color=%23015AD8)
-![My SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Data Bricks](https://img.shields.io/badge/Data_Bricks-you?style=for-the-badge&logo=databricks&logoColor=%23FFD43B&color=white)
 ![Python](https://img.shields.io/badge/Python-you_like?style=for-the-badge&logo=python&logoColor=%23FFD43B&color=%23306998)
 ![Visual Studio](https://img.shields.io/badge/VSCode-9354CD?style=for-the-badge&logo=azure&logoColor=white)
@@ -13,7 +12,7 @@ Personal Porfolio with data related projects
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter_Lab](https://img.shields.io/badge/Jupyer-Notebooks-%20?style=for-the-badge&logoColor=%23F37726&labelColor=%23F37726&color=white)
-
+![My SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
