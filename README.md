@@ -1,5 +1,6 @@
 # Personal Portfolio
 Personal Porfolio with data related projects
+
 # Technologies used
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-you?style=for-the-badge&logo=azure&logoColor=white&label=Microsoft&color=%23015AD8)
@@ -8,21 +9,18 @@ Personal Porfolio with data related projects
 ![Visual Studio](https://img.shields.io/badge/VSCode-9354CD?style=for-the-badge&logo=azure&logoColor=white)
 ![Data Factory](https://img.shields.io/badge/Data_Factory-%20?style=for-the-badge&logo=%23222222&label=Azure&labelColor=%2359B4D9&color=%2376BF49)
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-61859C?style=for-the-badge&logo=Tableau&logoColor=#EB912C)
+![Tableau](https://img.shields.io/badge/tableau-61859C?style=for-the-badge&logo=tableau&logoColor=EB912C)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter_Lab](https://img.shields.io/badge/Jupyer-Notebooks-%20?style=for-the-badge&logoColor=%23F37726&labelColor=%23F37726&color=white)
+![Jupyter_Lab](https://img.shields.io/badge/Jupyter-Notebooks-%20?style=for-the-badge&logoColor=%23F37726&labelColor=%23F37726&color=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-356df1?style=for-the-badge)
 ![My SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-
-
-
-
-Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
+Welcome to my personal portfolio repository! Here you will find a collection of projects and dashboards that demonstrate my skills and expertise in data engineering, data exploration, data visualization, business intelligence and reporting analytics using different cutting edge technologies.
 
 ## About Me
-I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually. Visit [Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)
+I am a passionate data enthusiast with a strong background in software engineering. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards and helping businesses make data-driven decisions. This portfolio showcases my proficiency in various technologies and highlights my ability to effectively communicate complex data visually.
 
 ---
 - [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
@@ -87,11 +85,12 @@ Thank you for visiting my Data Analysis Portfolio! I hope you find my projects i
 - <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
 - <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
 - <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
+- <b> ![Static Badge](https://img.shields.io/badge/%20IvanRamosDataTech-22aeff?style=social&logo=kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fajaxianazarenka)
+</b> 
 
   
 ## License
-Due to the extensive time invested in projects development and in consideration of privacy concerns, the some PBIX fils are currently not publicly accessible on GitHub. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Please check out my [NovyPro](https://www.novypro.com/profile_projects/tusharagg) profile. Thank you
+Due to the extensive time invested in projects development and in consideration of privacy concerns, the some PBIX fils are currently not publicly accessible on GitHub. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Please check out my [NovyPro](https://www.novypro.com/profile_projects/ivan-ramos-data-tech) profile. Thank you
 
  
  
