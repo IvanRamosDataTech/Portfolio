@@ -85,8 +85,7 @@ Thank you for visiting my Data Analysis Portfolio! I hope you find my projects i
 - <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
 - <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
 - <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b> ![Static Badge](https://img.shields.io/badge/%20IvanRamosDataTech-22aeff?style=social&logo=kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fajaxianazarenka)
-</b> 
+- <object> <img alt="Static Badge" src="https://img.shields.io/badge/%20IvanRamosDataTech-22aeff?style=social&logo=kaggle"> </object> 
 
   
 ## License
