@@ -81,9 +81,9 @@ Thank you for visiting my Data Analysis Portfolio! I hope you find my projects i
 
 
 ## Author 
- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>  
- <b>[Medium](https://medium.com/@tushar_aggarwal)</b>  
- <b>[Novypro](https://www.tushar-aggarwal.com/)</b>  
+ <b>[LinkedIn](https://www.linkedin.com/in/ivan-rcortes/)</b>  
+ <b>[Novypro](https://www.novypro.com/profile_projects/ivan-ramos-data-tech)</b>  
+ <b> ![Medium](https://img.shields.io/badge/%20-%20?style=social&logo=medium)[  @ivanramos.datatech](https://medium.com/@ivanramos.datatech)</b>  
  <b>![Kaggle Badge](https://img.shields.io/badge/%20-22aeff?style=social&logo=kaggle)[  IvanRamosDataTech](https://www.kaggle.com/ajaxianazarenka)</b>  
 
   
