@@ -24,24 +24,19 @@ Welcome to my personal portfolio repository! Here you will find a collection of 
 I am a passionate data enthusiast with a strong background in software engineering. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards and helping businesses make data-driven decisions. This portfolio showcases my proficiency in various technologies and highlights my ability to effectively communicate complex data visually.
 
 
-## [Project 1: Premier League Statistics](https://github.com/IvanRamosDataTech/Premier-League)
+## [Project 1: Premier League Statistics: Gamble your favorite team](https://github.com/IvanRamosDataTech/Premier-League)
 
 ### Summary
 
 A robust database of English Premier League matches that contains full match information from session 1992-1993 up to date. It also contains bet odds from the most popular bet websites which is a plus if anyone is interested in performing bet analysis. Project contains a friendly Power BI dashboard with current session positions and interactive controls to navigate to historic general results as well as one vs one previous results.
 New match data gets refreshed automatically every few days to keep up to date database and upload public dataset in Kaggle.
 
-### Preview
+### Preview & live demo
 
 [comment]: #!([sales](https://github.com/tushar2704/tushar2704-GIFs/blob/main/salesd1.gif))
 
-[comment]: # (update a  to this repository)
-
-### Live Demo
-
 [Premier League Dashboard](https://app.powerbi.com/groups/me/reports/ab4d3a82-dcb1-4dfe-827e-ef6a51f40402/ReportSectionb0961a8901a5cf17d54b?experience=power-bi)
 
-Repository: https://github.com/IvanRamosDataTech/Premier-League
 
 ### Tech specifications
 Data Engineering - A docker image is setup to hold a Postgresql database. A legacy version of ETL was initially performed using Power Query to extract and clean up individual csv files downloaded from API source. Now, project uses Python scripts with pandas, numpy and psycopg2 to perform ETL.
@@ -49,23 +44,51 @@ Project gets refresh automatically thanks to a job scheduled using orchestration
 
 Data Analysis - Contains common SQL scripts for validation of integrity and maintance of database. Also some DAX scripts for exploratory analysis and validation of data. Contains a Power BI interactive report with beautiful visuals, season statistics and filters to navigate in historical data.
 
-## [Project 2: Analyzing A/B test results](pending link to Repository)
+## [Project 2: Analyzing A/B test results: What page design users preffer?](pending link to Repository)
 
 ### Summary
 This project analyses an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. The goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
-### Preview
+### Preview & live Demo
 
-(TO-DO insert a gif with some interactions)
-
-### Live Demo
+(TODO Insert an gif)
 (TODO Insert a public jupyter-notebook web url)
-Repository: (TO-DO insert link once uploaded to github)
 
 ### Tech specifications
 
 Data Analysis - All investigation is implemented in a jupyter notebook. Project uses pandas, numpy and matplotlib for exploratory data analysis. A/B testing analysis is performed with the help of statsmodels Python api. Project includes an alternative analysis by performing regression and p-value techiniques to wrap up conclusions.
 
+## [Project 3: Insurance Complaints report: leverage the power of KPIs](https://github.com/IvanRamosDataTech/Insurance-Complaints)
+
+### Summary
+
+### Preview & live demo
+
+### Tech specifications
+
+## [Project 4: INEGI house purchasing power in Mexico: A case of study](https://github.com/IvanRamosDataTech/ENSAFI2023)
+
+### Summary
+
+### Preview & live demo
+
+### Tech specifications
+
+## [Project 5: Hotel Revenue: insights of new business opportunities](https://github.com/IvanRamosDataTech/HotelRevenueManagement)
+
+### Summary
+
+### Preview & live demo
+
+### Tech specifications
+
+## [Project 6: Market Stocks: How did your portfolio of investments open today?](link to repository)
+
+### Summary
+
+### Preview & live demo
+
+### Tech specifications
 
 ## Contact Information
 
