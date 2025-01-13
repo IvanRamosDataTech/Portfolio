@@ -28,20 +28,26 @@ I am a passionate data enthusiast with a strong background in software engineeri
 
 ### Summary
 
-Highlight Features All matches from season 1993-1994 up to date. Table of positions by season General Statistics by season Potential to develop statistics by Team by Season Matches includes basic Bet356 odds when possible, including expected average goal per match. So project has a potential to grow by analyzing historical odds per match.
+A robust database of English Premier League matches that contains full match information from session 1992-1993 up to date. It also contains bet odds from the most popular bet websites which is a plus if anyone is interested in performing bet analysis. Project contains a friendly Power BI dashboard with current session positions and interactive controls to navigate to historic general results as well as one vs one previous results.
+New match data gets refreshed automatically every few days to keep up to date database and upload public dataset in Kaggle.
 
 ### Preview
 
 [comment]: #!([sales](https://github.com/tushar2704/tushar2704-GIFs/blob/main/salesd1.gif))
 
-[comment]: # (update a gif to this repository)
+[comment]: # (update a  to this repository)
 
 ### Live Demo
 
 [Premier League Dashboard](https://app.powerbi.com/groups/me/reports/ab4d3a82-dcb1-4dfe-827e-ef6a51f40402/ReportSectionb0961a8901a5cf17d54b?experience=power-bi)
 
-### Tech specifications
+Repository: https://github.com/IvanRamosDataTech/Premier-League
 
+### Tech specifications
+Data Engineering - A docker image is setup to hold a Postgresql database. A legacy version of ETL was initially performed using Power Query to extract and clean up individual csv files downloaded from API source. Now, project uses Python scripts with pandas, numpy and psycopg2 to perform ETL.
+Project gets refresh automatically thanks to a job scheduled using orchestration software Airflow and public dataset is published using Kaggle's official CLI tools.
+
+Data Analysis - Contains common SQL scripts for validation of integrity and maintance of database. Also some DAX scripts for exploratory analysis and validation of data. Contains a Power BI interactive report with beautiful visuals, season statistics and filters to navigate in historical data.
 
 ## [Project 2: Analyzing A/B test results](pending link to Repository)
 
