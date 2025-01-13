@@ -56,9 +56,15 @@ This project analyses an A/B test run by an e-commerce website. The company has 
 
 ### Preview
 
+(TO-DO insert a gif with some interactions)
+
 ### Live Demo
+(TODO Insert a public jupyter-notebook web url)
+Repository: (TO-DO insert link once uploaded to github)
 
 ### Tech specifications
+
+Data Analysis - All investigation is implemented in a jupyter notebook. Project uses pandas, numpy and matplotlib for exploratory data analysis. A/B testing analysis is performed with the help of statsmodels Python api. Project includes an alternative analysis by performing regression and p-value techiniques to wrap up conclusions.
 
 
 ## Contact Information
